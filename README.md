@@ -1,1 +1,2 @@
-# Exerc-cios-em-C
+# Exercícios em C
+Lista de exercício ATP
